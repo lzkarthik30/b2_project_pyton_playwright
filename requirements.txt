@@ -1,0 +1,12 @@
+
+# pytest
+# playwright
+# pytest-playwright
+# pytest-asyncio
+# python-dotenv
+
+pytest
+playwright
+pytest-playwright
+pytest-asyncio
+python-dotenv
