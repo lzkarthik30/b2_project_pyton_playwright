@@ -6,3 +6,22 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Browser authentication and session data
+auth_state.json
+storage_state.json
+demo_state.json
+**/*state*.json
+
+# Local environment variables
+.env
+
+# Generated test reports and screenshots
+reports/
