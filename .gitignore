@@ -25,3 +25,13 @@ demo_state.json
 
 # Generated test reports and screenshots
 reports/
+
+
+# Environment variables and secrets
+.env
+
+# Playwright authentication state
+.auth/
+
+# Storage state files
+*.storage-state.json
